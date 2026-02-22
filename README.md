@@ -12,17 +12,6 @@
 
 <br/>
 
-<!-- ===== PROFILE VIEWS + FOLLOWERS ===== -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=roshanjaishi&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" alt="Profile Views" />
-  &nbsp;
-  <a href="https://github.com/roshanjaishi?tab=followers">
-    <img src="https://img.shields.io/github/followers/roshanjaishi?style=for-the-badge&color=238636&labelColor=0d1117&label=Followers" alt="Followers" />
-  </a>
-</div>
-
-<br/>
-
 <!-- ===== DIVIDER ===== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
