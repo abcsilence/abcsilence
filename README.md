@@ -125,7 +125,7 @@ philosophy: "I don't just build models — I engineer solutions."
 ### 🧠 AI Notes SaaS
 **An intelligent note-taking platform powered by AI**
 
-`FastAPI` `Next.js` `PostgreSQL` `OpenAI` `TailwindCSS`
+`FastAPI` `Next.js` `PostgreSQL` `OpenAI` 
 
 > A fullstack SaaS application that combines a modern Next.js frontend with a FastAPI backend, featuring AI-powered note summarization, smart search, and intelligent organization — built to demonstrate production-level AI integration and scalable backend architecture.
 
@@ -170,7 +170,7 @@ philosophy: "I don't just build models — I engineer solutions."
 
 <div align="center">
 
-<a href="https://linkedin.com/in/roshanjaishi" target="_blank">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/roshan-jaishi-0484902b8/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
