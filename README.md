@@ -1,198 +1,105 @@
-<!-- ===== ANIMATED HEADER ===== -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Roshan%20Jaishi&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=AI%20Engineer%20in%20Progress%20%7C%20Backend%20Developer%20%7C%20ML%20Enthusiast&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
-</div>
+<h1 align="center">Hi, I'm Roshan Jaishi 👋</h1>
 
-<!-- ===== TYPING ANIMATION ===== -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=45&lines=Building+intelligent+systems+that+solve+real+problems.;From+data+pipelines+to+deployed+AI+products.;Engineering+the+future%2C+one+model+at+a+time." alt="Typing SVG" />
+<p align="center">
+  Backend Developer · ML Enthusiast · Android Dev · Nepal 🇳🇵
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/roshan-jaishi-0484902b8/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-</div>
+  &nbsp;
+  <a href="mailto:roshanjaishi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=abcsilence&style=flat&color=blue&label=Profile+Views" />
+</p>
 
-<br/>
+---
 
-<!-- ===== DIVIDER ===== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## About Me
 
-<br/>
+I'm a developer from Nepal who enjoys building things — whether it's a machine learning model, a backend API, an Android app, or an actual RC plane. I like working across different domains and learning by doing.
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
+- 🐍 &nbsp;Strong foundation in **Python**, **OOP**, **Java**, and **Kotlin**
+- ⚙️ &nbsp;Currently learning **FastAPI** and building backend projects with it
+- 🤖 &nbsp;Studying **Machine Learning** and applied data science
+- 📱 &nbsp;Built Android apps using **Kotlin** and **Android Studio**
+- 🗄️ &nbsp;Working with **MySQL** and **PostgreSQL** for database management
+- 🌐 &nbsp;Built web apps using **Java**
+- 📊 &nbsp;Some exposure to **Big Data** concepts and tools
+- ✈️ &nbsp;Built an **RC plane** with friends — because engineering is fun beyond the screen
+- 📜 &nbsp;Certified in **Python with Data Science**
 
-```yaml
-name: Roshan Jaishi
-location: Nepal 🇳🇵
-role: AI/ML Engineer & Backend Developer (in progress)
-focus:
-  - Designing and building intelligent AI-powered applications
-  - Architecting scalable backend systems with FastAPI
-  - Exploring deep learning for real-world problem solving
-  - Bridging the gap between ML research and production systems
-philosophy: "I don't just build models — I engineer solutions."
-```
+---
 
-<br/>
+## Projects
 
-- 🔬 &nbsp;Deeply focused on **Artificial Intelligence**, **Machine Learning**, and **Deep Learning**
-- ⚙️ &nbsp;Building production-grade backends with **FastAPI** and modern Python tooling
-- 🏗️ &nbsp;Passionate about **system design**, **scalable architectures**, and **MLOps**
-- 🧠 &nbsp;Currently diving deep into **neural networks**, **CNNs**, **RNNs**, and **transformers**
-- 🚀 &nbsp;Working on fullstack AI products — from model training to deployment
-- 🎯 &nbsp;Goal: Become a well-rounded **AI Engineer** who ships real products
+| Project | Description | Tech |
+|---|---|---|
+| 🥦 **Vegetable Price Prediction** | ML model that predicts vegetable prices using historical data | Python, scikit-learn, Pandas |
+| 🎵 **Geet Sunam La** | Android music app with a clean UI for browsing and playing songs | Kotlin, Android Studio |
+| 🏋️ **Fitness Web App** | Web application for fitness tracking and workout management | Java |
+| 📝 **AI Notes SaaS** *(in progress)* | Fullstack note-taking app with AI-powered summarization and search | FastAPI, Next.js, PostgreSQL, OpenAI |
+| ✈️ **RC Plane** | Hardware project — designed and built a remote-controlled plane with a team | Electronics, Teamwork |
 
-<br/>
+---
 
-<!-- ===== DIVIDER ===== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## Tech Stack
 
-<br/>
+**Languages**
 
-## 📚 &nbsp;Currently Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 
-<div align="center">
+**Backend & APIs**
 
-| Domain | Focus Areas |
-|:---:|:---|
-| 🤖 **Deep Learning** | Neural Networks, CNNs, RNNs, Transformers, Attention Mechanisms |
-| ⚡ **FastAPI** | REST APIs, Async Programming, Authentication, Middleware, Deployment |
-| 🏛️ **Backend Architecture** | Database Design, Caching, Message Queues, Microservices |
-| 🧪 **AI System Design** | ML Pipelines, Model Serving, Feature Stores, Monitoring |
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
-</div>
+**ML & Data Science**
 
-<br/>
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-<!-- ===== DIVIDER ===== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+**Databases**
 
-<br/>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-## 🛠️ &nbsp;Tech Stack
+**Mobile**
 
-<div align="center">
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 
-#### 🧠 &nbsp;AI / ML / Deep Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+**Tools**
 
-#### ⚙️ &nbsp;Backend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-#### 🌐 &nbsp;Frontend & Fullstack
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+---
 
-#### 🔧 &nbsp;Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+## Currently Learning
 
-</div>
+- FastAPI — REST APIs, async programming, authentication, deployment
+- Deep Learning — neural networks, CNNs, and transformers
+- System design and backend architecture
 
-<br/>
+---
 
-<!-- ===== DIVIDER ===== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## GitHub Stats
 
-<br/>
-
-## 🚀 &nbsp;Featured Project
-
-<div align="center">
-
-<a href="https://github.com/roshanjaishi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=roshanjaishi&repo=ai-notes-saas&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" alt="AI Notes SaaS" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🧠 AI Notes SaaS
-**An intelligent note-taking platform powered by AI**
-
-`FastAPI` `Next.js` `PostgreSQL` `OpenAI` 
-
-> A fullstack SaaS application that combines a modern Next.js frontend with a FastAPI backend, featuring AI-powered note summarization, smart search, and intelligent organization — built to demonstrate production-level AI integration and scalable backend architecture.
-
-</div>
-
-<br/>
-
-<!-- ===== DIVIDER ===== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## 📊 &nbsp;GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roshanjaishi&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&hide_border=false&count_private=true" alt="GitHub Stats" />
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=abcsilence&show_icons=true&theme=default&hide_border=true&count_private=true" />
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshanjaishi&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&hide_border=false&langs_count=8" alt="Top Languages" />
-</div>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abcsilence&layout=compact&theme=default&hide_border=true&langs_count=6" />
+</p>
 
-<br/>
+---
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshanjaishi&theme=github-dark-blue&border=30363d&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<!-- ===== ACTIVITY GRAPH ===== -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roshanjaishi&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true" width="95%" alt="Contribution Graph" />
-</div>
-
-<br/>
-
-<!-- ===== DIVIDER ===== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## 🤝 &nbsp;Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/roshan-jaishi-0484902b8/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:roshanjaishi@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/roshanjaishi" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-</div>
-
-<br/>
-
-<!-- ===== DIVIDER ===== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- ===== CLOSING STATEMENT ===== -->
-<div align="center">
-
-### 💡 &nbsp;*"The best way to predict the future is to engineer it."*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%" />
-
-</div>
+<p align="center">
+  <i>Open to collaborating on interesting projects. Feel free to reach out.</i>
+</p>
