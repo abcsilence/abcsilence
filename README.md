@@ -18,8 +18,8 @@
 
 ### 👨‍💻 About
 
-I'm a **Backend Engineer at [Gilver.ai](https://www.gilver.ai/)**, where I build APIs and data systems with Python, FastAPI and PostgreSQL.
-Outside of work I explore **machine learning** and **neural networks**, and I like building things by hand, like an RC plane with friends ✈️.
+I'm a **Backend Engineer at [Gilver.ai](https://www.gilver.ai/)**,building the real-time market data platform behind it: APIs, data pipelines and AI features with Python, FastAPI, PostgreSQL and Redis
+Outside of work I explore **machine learning** and **neural networks**
 
 <br />
 
